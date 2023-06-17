@@ -57,4 +57,10 @@ dpkg-deb -b drcom drcom_1.4.8.2_i386.deb
 dpkg-deb -c demo.deb
 ```
 
+安装deb包：
+```shell
+dpkg -i xxxxx.deb
+```
+
+
 
